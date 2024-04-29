@@ -1,3 +1,5 @@
+const name = "";
+console.log(name);
 const Home = () => {
   return (
     <div className="mx-10 bg-red-500 px-5">
